@@ -1,0 +1,192 @@
+﻿Influenza Death Rates  Table for Georgia by County
+"All Races (includes Hispanic/Latino), Both Sexes, All Ages, 2018-2022"
+Sorted by Rate
+
+County,FIPS,"Age-Adjusted Death Rate(†) - deaths per 100,000","Lower 95% Confidence Interval","Upper 95% Confidence Interval",Average Annual Count,Recent Trend,"Recent 5-Year Trend (‡) in Death Rates","Lower 95% Confidence Interval","Upper 95% Confidence Interval"
+"Georgia",13000,1.2 ,1.1, 1.3,137,rising,7.6 ,4.6, 13.9
+"United States",00000,1.5 ,1.5, 1.5,5912,rising,8.4 ,5.2, 15.3
+"Chatham County",13051,1.5 ,0.9, 2.2,5,NA,NA,NA,NA
+"Fulton County",13121,1.3 ,1, 1.6,13,NA,NA,NA,NA
+"Gwinnett County",13135,0.8 ,0.6, 1.2,7,NA,NA,NA,NA
+"Cobb County",13067,0.7 ,0.5, 1.1,6,NA,NA,NA,NA
+"DeKalb County",13089,0.6 ,0.4, 0.9,5,NA,NA,NA,NA
+"Appling County",13001,NA ,NA, NA,NA,NA,NA,NA,NA
+"Atkinson County",13003,NA ,NA, NA,NA,NA,NA,NA,NA
+"Bacon County",13005,NA ,NA, NA,NA,NA,NA,NA,NA
+"Baker County",13007,NA ,NA, NA,NA,NA,NA,NA,NA
+"Baldwin County",13009,NA ,NA, NA,NA,NA,NA,NA,NA
+"Banks County",13011,NA ,NA, NA,NA,NA,NA,NA,NA
+"Barrow County",13013,NA ,NA, NA,NA,NA,NA,NA,NA
+"Bartow County",13015,NA ,NA, NA,NA,NA,NA,NA,NA
+"Ben Hill County",13017,NA ,NA, NA,NA,NA,NA,NA,NA
+"Berrien County",13019,NA ,NA, NA,NA,NA,NA,NA,NA
+"Bibb County",13021,NA ,NA, NA,NA,NA,NA,NA,NA
+"Bleckley County",13023,NA ,NA, NA,NA,NA,NA,NA,NA
+"Brantley County",13025,NA ,NA, NA,NA,NA,NA,NA,NA
+"Brooks County",13027,NA ,NA, NA,NA,NA,NA,NA,NA
+"Bryan County",13029,NA ,NA, NA,NA,NA,NA,NA,NA
+"Bulloch County",13031,NA ,NA, NA,NA,NA,NA,NA,NA
+"Burke County",13033,NA ,NA, NA,NA,NA,NA,NA,NA
+"Butts County",13035,NA ,NA, NA,NA,NA,NA,NA,NA
+"Calhoun County",13037,NA ,NA, NA,NA,NA,NA,NA,NA
+"Camden County",13039,NA ,NA, NA,NA,NA,NA,NA,NA
+"Candler County",13043,NA ,NA, NA,NA,NA,NA,NA,NA
+"Carroll County",13045,NA ,NA, NA,NA,NA,NA,NA,NA
+"Catoosa County",13047,NA ,NA, NA,NA,NA,NA,NA,NA
+"Charlton County",13049,NA ,NA, NA,NA,NA,NA,NA,NA
+"Chattahoochee County",13053,NA ,NA, NA,NA,NA,NA,NA,NA
+"Chattooga County",13055,NA ,NA, NA,NA,NA,NA,NA,NA
+"Cherokee County",13057,NA ,NA, NA,NA,NA,NA,NA,NA
+"Clarke County",13059,NA ,NA, NA,NA,NA,NA,NA,NA
+"Clay County",13061,NA ,NA, NA,NA,NA,NA,NA,NA
+"Clayton County",13063,NA ,NA, NA,NA,NA,NA,NA,NA
+"Clinch County",13065,NA ,NA, NA,NA,NA,NA,NA,NA
+"Coffee County",13069,NA ,NA, NA,NA,NA,NA,NA,NA
+"Colquitt County",13071,NA ,NA, NA,NA,NA,NA,NA,NA
+"Columbia County",13073,NA ,NA, NA,NA,NA,NA,NA,NA
+"Cook County",13075,NA ,NA, NA,NA,NA,NA,NA,NA
+"Coweta County",13077,NA ,NA, NA,NA,NA,NA,NA,NA
+"Crawford County",13079,NA ,NA, NA,NA,NA,NA,NA,NA
+"Crisp County",13081,NA ,NA, NA,NA,NA,NA,NA,NA
+"Dade County",13083,NA ,NA, NA,NA,NA,NA,NA,NA
+"Dawson County",13085,NA ,NA, NA,NA,NA,NA,NA,NA
+"Decatur County",13087,NA ,NA, NA,NA,NA,NA,NA,NA
+"Dodge County",13091,NA ,NA, NA,NA,NA,NA,NA,NA
+"Dooly County",13093,NA ,NA, NA,NA,NA,NA,NA,NA
+"Dougherty County",13095,NA ,NA, NA,NA,NA,NA,NA,NA
+"Douglas County",13097,NA ,NA, NA,NA,NA,NA,NA,NA
+"Early County",13099,NA ,NA, NA,NA,NA,NA,NA,NA
+"Echols County",13101,NA ,NA, NA,NA,NA,NA,NA,NA
+"Effingham County",13103,NA ,NA, NA,NA,NA,NA,NA,NA
+"Elbert County",13105,NA ,NA, NA,NA,NA,NA,NA,NA
+"Emanuel County",13107,NA ,NA, NA,NA,NA,NA,NA,NA
+"Evans County",13109,NA ,NA, NA,NA,NA,NA,NA,NA
+"Fannin County",13111,NA ,NA, NA,NA,NA,NA,NA,NA
+"Fayette County",13113,NA ,NA, NA,NA,NA,NA,NA,NA
+"Floyd County",13115,NA ,NA, NA,NA,NA,NA,NA,NA
+"Forsyth County",13117,NA ,NA, NA,NA,NA,NA,NA,NA
+"Franklin County",13119,NA ,NA, NA,NA,NA,NA,NA,NA
+"Gilmer County",13123,NA ,NA, NA,NA,NA,NA,NA,NA
+"Glascock County",13125,NA ,NA, NA,NA,NA,NA,NA,NA
+"Glynn County",13127,NA ,NA, NA,NA,NA,NA,NA,NA
+"Gordon County",13129,NA ,NA, NA,NA,NA,NA,NA,NA
+"Grady County",13131,NA ,NA, NA,NA,NA,NA,NA,NA
+"Greene County",13133,NA ,NA, NA,NA,NA,NA,NA,NA
+"Habersham County",13137,NA ,NA, NA,NA,NA,NA,NA,NA
+"Hall County",13139,NA ,NA, NA,NA,NA,NA,NA,NA
+"Hancock County",13141,NA ,NA, NA,NA,NA,NA,NA,NA
+"Haralson County",13143,NA ,NA, NA,NA,NA,NA,NA,NA
+"Harris County",13145,NA ,NA, NA,NA,NA,NA,NA,NA
+"Hart County",13147,NA ,NA, NA,NA,NA,NA,NA,NA
+"Heard County",13149,NA ,NA, NA,NA,NA,NA,NA,NA
+"Henry County",13151,NA ,NA, NA,NA,NA,NA,NA,NA
+"Houston County",13153,NA ,NA, NA,NA,NA,NA,NA,NA
+"Irwin County",13155,NA ,NA, NA,NA,NA,NA,NA,NA
+"Jackson County",13157,NA ,NA, NA,NA,NA,NA,NA,NA
+"Jasper County",13159,NA ,NA, NA,NA,NA,NA,NA,NA
+"Jeff Davis County",13161,NA ,NA, NA,NA,NA,NA,NA,NA
+"Jefferson County",13163,NA ,NA, NA,NA,NA,NA,NA,NA
+"Jenkins County",13165,NA ,NA, NA,NA,NA,NA,NA,NA
+"Johnson County",13167,NA ,NA, NA,NA,NA,NA,NA,NA
+"Jones County",13169,NA ,NA, NA,NA,NA,NA,NA,NA
+"Lamar County",13171,NA ,NA, NA,NA,NA,NA,NA,NA
+"Lanier County",13173,NA ,NA, NA,NA,NA,NA,NA,NA
+"Laurens County",13175,NA ,NA, NA,NA,NA,NA,NA,NA
+"Lee County",13177,NA ,NA, NA,NA,NA,NA,NA,NA
+"Liberty County",13179,NA ,NA, NA,NA,NA,NA,NA,NA
+"Lincoln County",13181,NA ,NA, NA,NA,NA,NA,NA,NA
+"Long County",13183,NA ,NA, NA,NA,NA,NA,NA,NA
+"Lowndes County",13185,NA ,NA, NA,NA,NA,NA,NA,NA
+"Lumpkin County",13187,NA ,NA, NA,NA,NA,NA,NA,NA
+"Macon County",13193,NA ,NA, NA,NA,NA,NA,NA,NA
+"Madison County",13195,NA ,NA, NA,NA,NA,NA,NA,NA
+"Marion County",13197,NA ,NA, NA,NA,NA,NA,NA,NA
+"McDuffie County",13189,NA ,NA, NA,NA,NA,NA,NA,NA
+"McIntosh County",13191,NA ,NA, NA,NA,NA,NA,NA,NA
+"Meriwether County",13199,NA ,NA, NA,NA,NA,NA,NA,NA
+"Miller County",13201,NA ,NA, NA,NA,NA,NA,NA,NA
+"Mitchell County",13205,NA ,NA, NA,NA,NA,NA,NA,NA
+"Monroe County",13207,NA ,NA, NA,NA,NA,NA,NA,NA
+"Montgomery County",13209,NA ,NA, NA,NA,NA,NA,NA,NA
+"Morgan County",13211,NA ,NA, NA,NA,NA,NA,NA,NA
+"Murray County",13213,NA ,NA, NA,NA,NA,NA,NA,NA
+"Muscogee County",13215,NA ,NA, NA,NA,NA,NA,NA,NA
+"Newton County",13217,NA ,NA, NA,NA,NA,NA,NA,NA
+"Oconee County",13219,NA ,NA, NA,NA,NA,NA,NA,NA
+"Oglethorpe County",13221,NA ,NA, NA,NA,NA,NA,NA,NA
+"Paulding County",13223,NA ,NA, NA,NA,NA,NA,NA,NA
+"Peach County",13225,NA ,NA, NA,NA,NA,NA,NA,NA
+"Pickens County",13227,NA ,NA, NA,NA,NA,NA,NA,NA
+"Pierce County",13229,NA ,NA, NA,NA,NA,NA,NA,NA
+"Pike County",13231,NA ,NA, NA,NA,NA,NA,NA,NA
+"Polk County",13233,NA ,NA, NA,NA,NA,NA,NA,NA
+"Pulaski County",13235,NA ,NA, NA,NA,NA,NA,NA,NA
+"Putnam County",13237,NA ,NA, NA,NA,NA,NA,NA,NA
+"Quitman County",13239,NA ,NA, NA,NA,NA,NA,NA,NA
+"Rabun County",13241,NA ,NA, NA,NA,NA,NA,NA,NA
+"Randolph County",13243,NA ,NA, NA,NA,NA,NA,NA,NA
+"Richmond County",13245,NA ,NA, NA,NA,NA,NA,NA,NA
+"Rockdale County",13247,NA ,NA, NA,NA,NA,NA,NA,NA
+"Schley County",13249,NA ,NA, NA,NA,NA,NA,NA,NA
+"Screven County",13251,NA ,NA, NA,NA,NA,NA,NA,NA
+"Seminole County",13253,NA ,NA, NA,NA,NA,NA,NA,NA
+"Spalding County",13255,NA ,NA, NA,NA,NA,NA,NA,NA
+"Stephens County",13257,NA ,NA, NA,NA,NA,NA,NA,NA
+"Stewart County",13259,NA ,NA, NA,NA,NA,NA,NA,NA
+"Sumter County",13261,NA ,NA, NA,NA,NA,NA,NA,NA
+"Talbot County",13263,NA ,NA, NA,NA,NA,NA,NA,NA
+"Taliaferro County",13265,NA ,NA, NA,NA,NA,NA,NA,NA
+"Tattnall County",13267,NA ,NA, NA,NA,NA,NA,NA,NA
+"Taylor County",13269,NA ,NA, NA,NA,NA,NA,NA,NA
+"Telfair County",13271,NA ,NA, NA,NA,NA,NA,NA,NA
+"Terrell County",13273,NA ,NA, NA,NA,NA,NA,NA,NA
+"Thomas County",13275,NA ,NA, NA,NA,NA,NA,NA,NA
+"Tift County",13277,NA ,NA, NA,NA,NA,NA,NA,NA
+"Toombs County",13279,NA ,NA, NA,NA,NA,NA,NA,NA
+"Towns County",13281,NA ,NA, NA,NA,NA,NA,NA,NA
+"Treutlen County",13283,NA ,NA, NA,NA,NA,NA,NA,NA
+"Troup County",13285,NA ,NA, NA,NA,NA,NA,NA,NA
+"Turner County",13287,NA ,NA, NA,NA,NA,NA,NA,NA
+"Twiggs County",13289,NA ,NA, NA,NA,NA,NA,NA,NA
+"Union County",13291,NA ,NA, NA,NA,NA,NA,NA,NA
+"Upson County",13293,NA ,NA, NA,NA,NA,NA,NA,NA
+"Walker County",13295,NA ,NA, NA,NA,NA,NA,NA,NA
+"Walton County",13297,NA ,NA, NA,NA,NA,NA,NA,NA
+"Ware County",13299,NA ,NA, NA,NA,NA,NA,NA,NA
+"Warren County",13301,NA ,NA, NA,NA,NA,NA,NA,NA
+"Washington County",13303,NA ,NA, NA,NA,NA,NA,NA,NA
+"Wayne County",13305,NA ,NA, NA,NA,NA,NA,NA,NA
+"Webster County",13307,NA ,NA, NA,NA,NA,NA,NA,NA
+"Wheeler County",13309,NA ,NA, NA,NA,NA,NA,NA,NA
+"White County",13311,NA ,NA, NA,NA,NA,NA,NA,NA
+"Whitfield County",13313,NA ,NA, NA,NA,NA,NA,NA,NA
+"Wilcox County",13315,NA ,NA, NA,NA,NA,NA,NA,NA
+"Wilkes County",13317,NA ,NA, NA,NA,NA,NA,NA,NA
+"Wilkinson County",13319,NA ,NA, NA,NA,NA,NA,NA,NA
+"Worth County",13321,NA ,NA, NA,NA,NA,NA,NA,NA
+
+Suggested Citation:
+HDPulse: An Ecosystem of Minority Health and Health Disparities Resources. National Institute on Minority Health and Health Disparities. Created 3/15/2025. Available from https://hdpulse.nimhd.nih.gov
+
+Notes:
+Source: Death data provided by the National Vital Statistics System [ https://www.cdc.gov/nchs/nvss/index.htm ]. 
+
+
+Trend
+   Rising when 95% confidence interval of average annual percent change is above 0.
+   Stable when 95% confidence interval of average annual percent change includes 0.
+   Falling when 95% confidence interval of average annual percent change is below 0.
+
+"(†) Death rates (deaths per 100,000 population per year) are age-adjusted to the 2000 US standard population [https://www.seer.cancer.gov/stdpopulations/stdpop.19ages.html] (19 age groups: <1, 1-4, 5-9, ... , 80-84, 85+). Rates calculated using SEER*Stat. Population counts for denominators are based on Census populations as modified [https://seer.cancer.gov/popdata/] by NCI. The US Population Data File [https://seer.cancer.gov/popdata/] is used for mortality data. \n"
+State Health Departments [ https://www.usa.gov/state-health ] may provide more current or more local data.
+"(‡) The Average Annual Percent Change (AAPC) is based on the APCs calculated by Joinpoint Regression Program (Version 4.9.0.0). Due to data availability issues, the time period used in the calculation of the joinpoint regression model may differ for selected counties. \n"
+"For more information about Influenza, see the definitions at http://hdpulse.nimhd.nih.gov/data/cod.html#influenza."
+Data for United States does not include Puerto Rico.
+
+"NA: Data not available for this combination of variables or data have been suppressed to ensure confidentiality and stability of rate estimates.  Counts are suppressed if fewer than 16 records were reported in a specific area-sex-race category. If an average count of 3 is shown, the total number of deaths for the time period is 16 or more which exceeds suppression threshold (but is rounded to 3). Data may also be suppressed until more complete data become available."
+
+"Please note that the data comes from different sources. Due to different years ( https://hdpulse.nimhd.nih.gov/data/historicaltrend/differences.html ) of data availability, most of the trends are AAPCs based on APCs but some are APCs calculated in SEER*Stat. ( https://seer.cancer.gov/seerstat/ ) Please refer to the source for each graph for additional information. "
+
+"Interpret Rankings provides insight into interpreting mortality statistics.  When the population size for a denominator is small, the rates may be unstable.  A rate is unstable when a small change in the numerator (e.g., only one or two additional deaths) has a dramatic effect on the calculated rate."
+"Rural-Urban Continuum Codes (developed by the United States Department of Agriculture (USDA) [ https://www.ers.usda.gov/data-products/rural-urban-continuum-codes.aspx ] ) are used on this website to distinguish which counties are rural and urban; additionally, how much of a state’s population is classified as rural or urban. For more information about using Rural-Urban Continuum Codes, go to the rural urban [ http://hdpulse.nimhd.nih.gov/data/ruralurban.html ] page."
+

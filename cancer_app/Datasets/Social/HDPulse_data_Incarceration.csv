@@ -1,0 +1,68 @@
+﻿Children ever having a parent or guardian serve time in jail 
+"All Races (includes Hispanic/Latino), Both Sexes, Ages 0-17, 2022"
+
+Sorted by Percent
+
+State,FIPS,Percent(1)
+"Arkansas",05000,12.0
+"Montana",30000,10.9
+"Alaska",02900,10.7
+"West Virginia",54000,10.4
+"Mississippi",28000,10.0
+"Kentucky",21000,9.8
+"Oklahoma",40000,9.8
+"New Mexico",35000,9.7
+"Wyoming",56000,9.7
+"Delaware",10000,9.5
+"Michigan",26000,9.1
+"South Dakota",46000,9.1
+"Nevada",32000,8.8
+"South Carolina",45000,8.8
+"Tennessee",47000,8.7
+"Idaho",16000,8.3
+"Wisconsin",55000,8.2
+"North Dakota",38000,8.0
+"Ohio",39000,7.9
+"Arizona",04000,7.6
+"Alabama",01000,7.4
+"Louisiana",22000,7.4
+"Missouri",29000,7.4
+"Georgia",13000,7.2
+"Indiana",18000,7.2
+"North Carolina",37000,6.8
+"Oregon",41000,6.7
+"Kansas",20000,6.6
+"Pennsylvania",42000,6.4
+"Nebraska",31000,6.3
+"Texas",48000,6.3
+"Colorado",08000,6.2
+"Connecticut",09000,6.0
+"Florida",12000,5.9
+"Illinois",17000,5.8
+"Iowa",19000,5.6
+"District of Columbia",11001,5.3
+"California",06000,5.0
+"Hawaii",15000,4.7
+"Maryland",24000,4.7
+"Maine",23000,4.5
+"Virginia",51000,4.5
+"Vermont",50000,4.4
+"Washington",53000,4.2
+"Rhode Island",44000,4.1!
+"Utah",49000,3.3
+"New York",36000,3.2
+"New Hampshire",33000,3.0!
+"New Jersey",34000,3.0!
+"Minnesota",27000,2.9
+"Massachusetts",25000,2.6
+"Puerto Rico",72001,NA
+
+Suggested Citation:
+HDPulse: An Ecosystem of Minority Health and Health Disparities Resources. National Institute on Minority Health and Health Disparities. Created 3/15/2025. Available from https://hdpulse.nimhd.nih.gov
+
+Notes:
+"(1) Source: National Survey of Children's Health, Health Resources and Services Administration, Maternal and Child Health Bureau. [ https://mchb.hrsa.gov/data/national-surveys ]"
+"Citation: Child and Adolescent Health Measurement Initiative. 2022 National Survey of Children's Health (NSCH) data query. Data Resource Center for Child and Adolescent Health supported by the U.S. Department of Health and Human Services, Health Resources and Services Administration (HRSA), Maternal and Child Health Bureau (MCHB). Retrieved from www.childhealthdata.org [ http://www.childhealthdata.org ]."
+
+! Please interpret with caution: estimate has a 95% confidence interval width exceeding 20 percentage points or 1.2 times the estimate and may not be reliable. For more information about the data suppression and display criteria click here [ https://www.childhealthdata.org/docs/default-source/nsch-docs/nsch_data-supression-and-display_revised_4-13-20.pdf?sfvrsn=72d45e17_2 ].
+NA: Some data are not available or suppressed due to insufficient counts.

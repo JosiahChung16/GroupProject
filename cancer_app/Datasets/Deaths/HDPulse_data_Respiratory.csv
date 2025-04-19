@@ -1,0 +1,192 @@
+﻿Chronic Lower Respiratory Disease Death Rates  Table for Georgia by County
+"All Races (includes Hispanic/Latino), Both Sexes, All Ages, 2018-2022"
+Sorted by Rate
+
+County,FIPS,"Age-Adjusted Death Rate(†) - deaths per 100,000","Lower 95% Confidence Interval","Upper 95% Confidence Interval",Average Annual Count,Recent Trend,"Recent 5-Year Trend (‡) in Death Rates","Lower 95% Confidence Interval","Upper 95% Confidence Interval"
+"Georgia",13000,42.4 ,41.8, 42.9,4811,falling,-3.4 ,-4.2, -2.8
+"United States",00000,36.9 ,36.8, 36.9,151766,falling,-4.1 ,-5.5, -2.9
+"Berrien County",13019,108.2 ,90.4, 128.8,27,rising,1.8 ,0.4, 3.4
+"Echols County",13101,102.4 ,60.6, 161.7,4,NA,NA,NA,NA
+"Jeff Davis County",13161,97.4 ,76.7, 122.1,16,rising,2.8 ,1.0, 5.0
+"Upson County",13293,96.6 ,83, 112,37,rising,2.0 ,0.6, 3.6
+"Chattooga County",13055,94.9 ,80.5, 111.3,32,rising,2.3 ,0.4, 4.6
+"Long County",13183,87.8 ,64.5, 116.1,10,NA,NA,NA,NA
+"Worth County",13321,85.1 ,70.7, 102,25,rising,3.1 ,0.7, 6.2
+"Twiggs County",13289,84.4 ,63.4, 111.9,11,NA,NA,NA,NA
+"Turner County",13287,83.2 ,61.6, 110.8,10,NA,NA,NA,NA
+"Heard County",13149,82.4 ,62.9, 106.5,13,NA,NA,NA,NA
+"Polk County",13233,81.8 ,70.7, 94.1,40,rising,1.8 ,0.3, 3.7
+"Brantley County",13025,78.9 ,63.3, 97.5,18,stable,-0.6 ,-2.6, 1.6
+"Wayne County",13305,78.4 ,66, 92.6,29,rising,3.2 ,1.2, 5.8
+"Ware County",13299,77.8 ,66.8, 90.1,37,rising,1.5 ,0.2, 2.9
+"Atkinson County",13003,77.4 ,52.9, 109.5,7,NA,NA,NA,NA
+"Haralson County",13143,77.2 ,64.9, 91.3,29,rising,1.7 ,0.1, 3.5
+"Murray County",13213,77.2 ,66.1, 89.6,36,stable,0.4 ,-0.7, 1.8
+"Clinch County",13065,76.7 ,50.2, 112.2,6,NA,NA,NA,NA
+"McDuffie County",13189,76.7 ,62.2, 93.7,20,stable,1.8 ,-0.6, 4.9
+"Johnson County",13167,75.6 ,56.5, 100.1,11,NA,NA,NA,NA
+"Butts County",13035,75.3 ,61.6, 91.2,22,stable,-0.3 ,-7.3, 1.4
+"Montgomery County",13209,74.8 ,53.3, 102.7,8,NA,NA,NA,NA
+"Walker County",13295,74.4 ,66.8, 82.8,71,stable,-2.8 ,-10.2, 1.6
+"Dade County",13083,74.2 ,59.1, 92.5,17,rising,2.4 ,0.1, 5.7
+"Colquitt County",13071,74.1 ,64, 85.4,39,stable,1.5 ,-0.4, 3.7
+"Candler County",13043,73.9 ,55.6, 97,11,NA,NA,NA,NA
+"Lanier County",13173,73.3 ,52.4, 100,8,NA,NA,NA,NA
+"Toombs County",13279,72.6 ,60.3, 86.8,25,stable,1.3 ,-0.4, 3.4
+"Pierce County",13229,72.2 ,57.9, 89.2,18,stable,0.0 ,-2.3, 2.7
+"Tattnall County",13267,71.8 ,58.1, 87.8,20,stable,1.4 ,-0.2, 3.2
+"Spalding County",13255,71.8 ,63.9, 80.3,64,stable,-0.2 ,-5.8, 1.1
+"Emanuel County",13107,71.4 ,57.5, 87.7,19,stable,1.7 ,-0.2, 3.9
+"Catoosa County",13047,70.3 ,62.7, 78.6,64,stable,1.1 ,0.0, 2.3
+"Charlton County",13049,69.4 ,52, 91.3,11,NA,NA,NA,NA
+"Gordon County",13129,68.5 ,59.7, 78.2,45,stable,1.2 ,-0.1, 2.6
+"Barrow County",13013,68 ,59.7, 77.1,51,falling,-13.0 ,-23.2, -0.4
+"Taylor County",13269,67.6 ,49.2, 92.2,9,NA,NA,NA,NA
+"Franklin County",13119,66 ,54, 80.1,22,stable,-0.5 ,-2.1, 1.3
+"Lamar County",13171,65.7 ,51.4, 83.1,15,NA,NA,NA,NA
+"Lowndes County",13185,64.9 ,58.3, 72.1,71,stable,0.7 ,-0.4, 2.0
+"Stephens County",13257,64 ,53.4, 76.5,26,stable,-5.7 ,-23.8, 0.7
+"Dodge County",13091,63.6 ,51.1, 78.6,18,stable,1.4 ,-0.8, 4.1
+"Crawford County",13079,63.4 ,46.7, 84.7,10,NA,NA,NA,NA
+"Telfair County",13271,63.2 ,47.3, 83.4,11,NA,NA,NA,NA
+"Carroll County",13045,63.2 ,57, 69.8,81,rising,2.0 ,0.8, 6.6
+"Laurens County",13175,62.6 ,54.4, 71.8,42,stable,0.6 ,-0.9, 2.1
+"Treutlen County",13283,61.9 ,40, 92.5,5,NA,NA,NA,NA
+"Schley County",13249,61.9 ,37, 99,4,NA,NA,NA,NA
+"Crisp County",13081,61.8 ,49.5, 76.6,18,rising,6.2 ,1.3, 23.8
+"Bryan County",13029,61.5 ,50.2, 74.4,22,stable,-1.1 ,-3.0, 1.1
+"Madison County",13195,61.3 ,50.4, 74.1,23,stable,0.0 ,-1.9, 2.4
+"Effingham County",13103,61.2 ,52.1, 71.3,35,stable,0.2 ,-1.4, 2.3
+"Banks County",13011,61 ,47, 78.2,14,NA,NA,NA,NA
+"Wilcox County",13315,60.7 ,43.3, 84.1,8,NA,NA,NA,NA
+"Troup County",13285,60.1 ,52.6, 68.3,48,stable,1.0 ,-0.2, 2.4
+"Peach County",13225,59.7 ,48.3, 73.2,20,stable,1.3 ,-0.7, 3.9
+"Pike County",13231,59.6 ,45.8, 76.4,13,stable,0.3 ,-1.6, 2.6
+"Jackson County",13157,59.4 ,51.9, 67.7,47,stable,0.3 ,-0.9, 1.8
+"Dougherty County",13095,59.1 ,52.6, 66.4,61,rising,11.2 ,1.4, 17.4
+"Washington County",13303,59.1 ,46.4, 74.4,15,NA,NA,NA,NA
+"Seminole County",13253,58.9 ,42.7, 80.7,9,NA,NA,NA,NA
+"Liberty County",13179,58.9 ,48.6, 70.5,25,stable,1.3 ,-0.8, 4.1
+"Cook County",13075,58.6 ,44.9, 75.5,13,NA,NA,NA,NA
+"Coffee County",13069,58.5 ,48.8, 69.5,27,falling,-7.2 ,-18.0, -1.5
+"Rabun County",13241,57.6 ,46.2, 71.7,19,stable,0.8 ,-1.1, 3.1
+"Floyd County",13115,57.5 ,51.6, 63.9,71,stable,1.1 ,0.0, 2.3
+"Decatur County",13087,57.1 ,46.6, 69.4,21,rising,3.3 ,1.0, 6.3
+"Fannin County",13111,56.6 ,47.3, 67.8,29,stable,-6.3 ,-17.0, 0.0
+"Elbert County",13105,56.5 ,45.3, 70.2,18,NA,NA,NA,NA
+"Ben Hill County",13017,56.4 ,43.2, 72.7,13,NA,NA,NA,NA
+"Bartow County",13015,56.1 ,50, 62.7,66,falling,-2.6 ,-11.4, -0.4
+"Whitfield County",13313,56.1 ,50.1, 62.6,64,stable,0.3 ,-0.9, 1.7
+"Jones County",13169,55.2 ,44.6, 67.6,20,stable,-1.0 ,-2.4, 0.6
+"Screven County",13251,54.8 ,41.1, 72.3,11,NA,NA,NA,NA
+"Baldwin County",13009,54.1 ,45.3, 64.2,28,stable,1.8 ,-2.0, 13.9
+"Habersham County",13137,53.4 ,45.5, 62.4,33,stable,0.1 ,-1.3, 1.8
+"Bulloch County",13031,53.2 ,45.7, 61.6,37,stable,0.4 ,-0.8, 1.7
+"Jenkins County",13165,53 ,35.2, 77.2,6,NA,NA,NA,NA
+"Jefferson County",13163,52.8 ,39.2, 69.9,10,NA,NA,NA,NA
+"Lumpkin County",13187,52.3 ,42.7, 63.8,21,stable,-1.8 ,-3.8, 0.6
+"Tift County",13277,51.7 ,43, 61.7,25,stable,-1.0 ,-2.9, 0.9
+"Macon County",13193,51.4 ,36.6, 70.9,8,NA,NA,NA,NA
+"Houston County",13153,51.2 ,46.3, 56.6,81,falling,-8.6 ,-14.6, -1.5
+"Burke County",13033,51.1 ,39.8, 64.7,15,NA,NA,NA,NA
+"White County",13311,50.8 ,41.9, 61.4,24,stable,-0.7 ,-2.2, 1.0
+"Dawson County",13085,50.1 ,39.7, 62.5,18,stable,0.6 ,-1.7, 4.0
+"Bacon County",13005,49.8 ,34.3, 70.2,7,NA,NA,NA,NA
+"Newton County",13217,49.6 ,43.8, 56,55,falling,-1.5 ,-6.2, -0.3
+"Miller County",13201,49.3 ,30.2, 77.5,5,NA,NA,NA,NA
+"Brooks County",13027,49.1 ,36.5, 65.1,11,NA,NA,NA,NA
+"Bleckley County",13023,49 ,35.2, 67.1,8,NA,NA,NA,NA
+"Richmond County",13245,48.9 ,44.7, 53.3,108,stable,-0.6 ,-1.3, 0.2
+"Evans County",13109,48.6 ,33.5, 68.8,7,NA,NA,NA,NA
+"Irwin County",13155,48.2 ,32.9, 69.1,6,NA,NA,NA,NA
+"Camden County",13039,47.6 ,39.3, 57.1,25,stable,-1.5 ,-3.2, 0.5
+"Sumter County",13261,46.5 ,37.1, 57.7,17,stable,0.7 ,-1.0, 2.5
+"Towns County",13281,45.9 ,35.3, 60.8,14,NA,NA,NA,NA
+"Thomas County",13275,45.8 ,38.4, 54.4,28,stable,0.1 ,-2.0, 2.3
+"Jasper County",13159,45.8 ,32.9, 62.4,9,NA,NA,NA,NA
+"Hart County",13147,45.7 ,37, 56.3,19,stable,-1.0 ,-2.9, 0.9
+"Muscogee County",13215,45.6 ,41.7, 49.8,101,stable,-0.6 ,-1.7, 0.5
+"Pickens County",13227,45.6 ,37.3, 55.5,22,stable,0.1 ,-2.2, 3.1
+"Oglethorpe County",13221,45.3 ,33.5, 60.5,10,NA,NA,NA,NA
+"Wheeler County",13309,45.2 ,27.4, 71,4,NA,NA,NA,NA
+"Appling County",13001,45.1 ,33.9, 59.2,11,NA,NA,NA,NA
+"Meriwether County",13199,45.1 ,35.2, 57.3,15,NA,NA,NA,NA
+"Union County",13291,44.8 ,36.9, 54.7,25,stable,0.6 ,-0.8, 2.3
+"Monroe County",13207,44.8 ,35.8, 55.6,18,stable,1.1 ,-1.0, 4.0
+"Gilmer County",13123,44.6 ,36.9, 53.9,24,stable,-0.6 ,-2.4, 1.7
+"Chatham County",13051,44.5 ,41.4, 47.7,158,stable,0.2 ,-0.6, 1.0
+"Lee County",13177,43.8 ,33.3, 56.5,12,stable,-0.3 ,-2.5, 2.4
+"Talbot County",13263,43.5 ,26.5, 70.3,4,NA,NA,NA,NA
+"Mitchell County",13205,43.1 ,32.9, 55.8,12,stable,0.6 ,-1.2, 2.6
+"Walton County",13297,42.1 ,36.9, 47.9,48,falling,-5.3 ,-11.3, -2.4
+"Henry County",13151,41.6 ,37.5, 46,82,stable,-1.2 ,-2.4, 0.1
+"Coweta County",13077,41 ,36.4, 46,61,falling,-1.8 ,-3.3, -0.1
+"Grady County",13131,40 ,31.3, 50.8,14,NA,NA,NA,NA
+"Marion County",13197,39.9 ,25.6, 61.3,5,NA,NA,NA,NA
+"Wilkes County",13317,39.8 ,27.3, 57.7,7,NA,NA,NA,NA
+"McIntosh County",13191,39.8 ,28.6, 55.6,9,NA,NA,NA,NA
+"Lincoln County",13181,39.7 ,26.5, 59.6,6,NA,NA,NA,NA
+"Wilkinson County",13319,39.7 ,25.8, 59.5,5,NA,NA,NA,NA
+"Putnam County",13237,39.4 ,30.5, 50.7,14,NA,NA,NA,NA
+"Bibb County",13021,38.7 ,34.7, 42.9,72,falling,-1.4 ,-2.5, -0.4
+"Rockdale County",13247,37.8 ,32.5, 43.7,38,stable,-1.5 ,-3.8, 1.0
+"Paulding County",13223,37.2 ,32.6, 42.2,52,stable,-1.6 ,-3.1, 0.3
+"Harris County",13145,36.5 ,28.7, 45.9,16,stable,0.3 ,-1.7, 2.8
+"Dooly County",13093,36.4 ,24.8, 52.8,6,NA,NA,NA,NA
+"Pulaski County",13235,36.4 ,23.7, 54.6,6,NA,NA,NA,NA
+"Warren County",13301,36.1 ,20.6, 61.8,3,NA,NA,NA,NA
+"Randolph County",13243,35.9 ,21.3, 59.2,4,NA,NA,NA,NA
+"Morgan County",13211,35.2 ,26, 47,10,NA,NA,NA,NA
+"Glynn County",13127,34.4 ,30.1, 39.3,47,falling,-6.9 ,-14.2, -3.5
+"Hall County",13139,34.3 ,31, 37.9,80,falling,-2.3 ,-3.1, -1.6
+"Columbia County",13073,34.2 ,30.2, 38.6,54,falling,-11.6 ,-22.2, -0.8
+"Clayton County",13063,34.1 ,30.3, 38.2,70,falling,-16.7 ,-22.1, -10.5
+"Oconee County",13219,33.3 ,26.2, 41.8,15,NA,NA,NA,NA
+"Douglas County",13097,33.3 ,28.7, 38.5,40,falling,-7.4 ,-16.5, -2.9
+"Cherokee County",13057,32.9 ,29.8, 36.2,87,falling,-10.0 ,-17.9, -3.5
+"Early County",13099,32.5 ,21.2, 48.5,5,NA,NA,NA,NA
+"Forsyth County",13117,32.4 ,29, 35.9,71,falling,-2.2 ,-3.2, -0.9
+"Clarke County",13059,31.1 ,26.5, 36.2,34,stable,-0.8 ,-2.1, 0.6
+"Gwinnett County",13135,30.2 ,28.3, 32.1,204,falling,-6.6 ,-10.5, -2.2
+"Hancock County",13141,28.2 ,16.7, 46.7,4,NA,NA,NA,NA
+"Terrell County",13273,26.7 ,15.7, 43.6,4,NA,NA,NA,NA
+"Fayette County",13113,25.7 ,22.3, 29.6,41,falling,-1.7 ,-3.0, -0.1
+"Cobb County",13067,25.5 ,23.8, 27.3,176,falling,-9.3 ,-15.7, -2.5
+"Greene County",13133,24.8 ,18, 34.3,9,NA,NA,NA,NA
+"Fulton County",13121,24 ,22.6, 25.4,231,falling,-2.2 ,-2.7, -1.6
+"DeKalb County",13089,21.9 ,20.3, 23.5,159,falling,-7.7 ,-10.8, -2.8
+"Baker County",13007,NA ,NA, NA,NA,NA,NA,NA,NA
+"Calhoun County",13037,NA ,NA, NA,NA,NA,NA,NA,NA
+"Chattahoochee County",13053,NA ,NA, NA,NA,NA,NA,NA,NA
+"Clay County",13061,NA ,NA, NA,NA,NA,NA,NA,NA
+"Glascock County",13125,NA ,NA, NA,NA,NA,NA,NA,NA
+"Quitman County",13239,NA ,NA, NA,NA,NA,NA,NA,NA
+"Stewart County",13259,NA ,NA, NA,NA,NA,NA,NA,NA
+"Taliaferro County",13265,NA ,NA, NA,NA,NA,NA,NA,NA
+"Webster County",13307,NA ,NA, NA,NA,NA,NA,NA,NA
+
+Suggested Citation:
+HDPulse: An Ecosystem of Minority Health and Health Disparities Resources. National Institute on Minority Health and Health Disparities. Created 3/15/2025. Available from https://hdpulse.nimhd.nih.gov
+
+Notes:
+Source: Death data provided by the National Vital Statistics System [ https://www.cdc.gov/nchs/nvss/index.htm ]. 
+
+
+Trend
+   Rising when 95% confidence interval of average annual percent change is above 0.
+   Stable when 95% confidence interval of average annual percent change includes 0.
+   Falling when 95% confidence interval of average annual percent change is below 0.
+
+"(†) Death rates (deaths per 100,000 population per year) are age-adjusted to the 2000 US standard population [https://www.seer.cancer.gov/stdpopulations/stdpop.19ages.html] (19 age groups: <1, 1-4, 5-9, ... , 80-84, 85+). Rates calculated using SEER*Stat. Population counts for denominators are based on Census populations as modified [https://seer.cancer.gov/popdata/] by NCI. The US Population Data File [https://seer.cancer.gov/popdata/] is used for mortality data. \n"
+State Health Departments [ https://www.usa.gov/state-health ] may provide more current or more local data.
+"(‡) The Average Annual Percent Change (AAPC) is based on the APCs calculated by Joinpoint Regression Program (Version 4.9.0.0). Due to data availability issues, the time period used in the calculation of the joinpoint regression model may differ for selected counties. \n"
+"For more information about Chronic Lower Respiratory Disease, see the definitions at http://hdpulse.nimhd.nih.gov/data/cod.html#clrd."
+Data for United States does not include Puerto Rico.
+
+"NA: Data not available for this combination of variables or data have been suppressed to ensure confidentiality and stability of rate estimates.  Counts are suppressed if fewer than 16 records were reported in a specific area-sex-race category. If an average count of 3 is shown, the total number of deaths for the time period is 16 or more which exceeds suppression threshold (but is rounded to 3). Data may also be suppressed until more complete data become available."
+
+"Please note that the data comes from different sources. Due to different years ( https://hdpulse.nimhd.nih.gov/data/historicaltrend/differences.html ) of data availability, most of the trends are AAPCs based on APCs but some are APCs calculated in SEER*Stat. ( https://seer.cancer.gov/seerstat/ ) Please refer to the source for each graph for additional information. "
+
+"Interpret Rankings provides insight into interpreting mortality statistics.  When the population size for a denominator is small, the rates may be unstable.  A rate is unstable when a small change in the numerator (e.g., only one or two additional deaths) has a dramatic effect on the calculated rate."
+"Rural-Urban Continuum Codes (developed by the United States Department of Agriculture (USDA) [ https://www.ers.usda.gov/data-products/rural-urban-continuum-codes.aspx ] ) are used on this website to distinguish which counties are rural and urban; additionally, how much of a state’s population is classified as rural or urban. For more information about using Rural-Urban Continuum Codes, go to the rural urban [ http://hdpulse.nimhd.nih.gov/data/ruralurban.html ] page."
+
